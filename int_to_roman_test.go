@@ -4,7 +4,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "awesomeProject"
+	. "github.com/colins/awesome_project"
 )
 
 var _ = Describe("IntToRoman", func() {

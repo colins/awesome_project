@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	. "awesomeProject"
+	. "github.com/colins/awesome_project"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
